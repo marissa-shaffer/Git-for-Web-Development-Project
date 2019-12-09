@@ -30,10 +30,15 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     14. What is the alt attribute used for?
         It provides alternative information for an image. 
     15. How do I reference an id?
+        In CSS, you can reference an id with a "#" symbol followed by the name of the id of the element.
     16. What is the difference between a section and a div
+        A section defines a section like chapters, headers, or footers, where a div is just a division in the HTML document
     17. What is CSS used for? 
+        CSS is used for styling the look of an HTML document.
     18. How to we select an element? Example - every h2 on the page
+        To select an element in css, like h2 for example, type the name of the element h2 with "{}" brackets
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+        A class is a group of elements where an id is a single defined element.
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
