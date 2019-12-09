@@ -40,6 +40,7 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
         A class is a group of elements where an id is a single defined element.
     20. How do we select classes in CSS?
+        We select classed in CSS with a "." and then the name of the class 
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
