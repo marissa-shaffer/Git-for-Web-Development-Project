@@ -46,20 +46,36 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     22. What is a parent child selector? When would this be useful?
         A parent child selector is where you use the parent then followed by the child to select a more specific element.
     23. How do you select all links within a div with the class of sidebar?
+        .sidebar div{}
     24. What is a pseudo selector?
+        It defines a special state of an element, for example, hover.
     25. What do we use the change the spacing between lines?
+        In the selector, use "line-height:" and a number of lines you want to space them out. So if you want to double the line space, put 2.
     26. What do we use to change the spacing between letters?
+        In the selector, use "letter-spacing:" and the pixel spacing you would prefer to have, for example 2px.
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+        In the selector, type "text-transform: uppercase" to get all caps.
     28. How do I add a 1px border around my div that is dotted and black?
+        div{
+            border: 1px dotted black;
+        }
     29. How do I select everything on the page? 
+            You could use "*" as a selector for everything but its not very high in specificity.
     30. How do I write a comment in CSS?
+        /* type your message here */
     31. How do I find out what file I am in, when I am using the command line? 
+        Use pwd for "print working directory" to see what file you are currently in.
     32. Using the command line - how do I see a list of files/folders in my current folder?
-    33. How do I remove a file via the command line? Why do I have to be careful with this? 
-    34. Why should I use version control? 
+        To see a list of files/folders that are in your current folder, use ls.
+    33. How do I remove a file via the command line? Why do I have to be careful with this?
+        Use rm to remove a file. You have to be careful with this command because you cannot undo this and the file is permenantly deleted from your machine. 
+    34. Why should I use version control?
+        You should use version control because its the best way to keep track of your work in case if you do need to go back to an older version. It also makes collaboration better/easier to compare and merge versions. 
     35. How often should I commit to github?
-    36. What is the command we would use to push our repo up to github? 
-    37. Walk me through Lambda's git flow. 
+        You should commit to github as often as you can. You don't want to make too many major changes, for example if you change a section or block of code, then you should commit.
+    36. What is the command we would use to push our repo up to github?
+        "git push" but you do this after you have staged and commited your repo. 
+    37. Walk me through Lambda's git flow.
 
 Stretch Questions
 
