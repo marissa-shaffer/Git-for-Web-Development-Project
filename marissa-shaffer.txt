@@ -42,7 +42,9 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     20. How do we select classes in CSS?
         We select classed in CSS with a "." and then the name of the class 
     21. How do we select a p element with a single class of “human””?
-    22. What is a parent child selector? When would this be useful? 
+        We select it by using ".human p{}"
+    22. What is a parent child selector? When would this be useful?
+        A parent child selector is where you use the parent then followed by the child to select a more specific element.
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
