@@ -76,6 +76,15 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     36. What is the command we would use to push our repo up to github?
         "git push" but you do this after you have staged and commited your repo. 
     37. Walk me through Lambda's git flow.
+        Step one: Fork the repository.
+        Step two: clone the repo.
+        Step three: copy the clone.
+        Step four: open the bash or git bash and type git clone and paste the clone link. Hit enter.
+        Step five: Open your code editor, and then open the folder of the repo you cloned.
+        step six: after you have made some changes, stage the repo and commit with a message.
+        step seven: in the terminal type "git push" to push the repo back to git hub.
+        step eight: open git hub and click the new pull request button.
+        step nine: make sure the name of your repo is selected to compare to and not the master. Then add your TL as a reviewer and wait for feedback if you are finished, repeat steps six through nine until you are completely finished with the project.
 
 Stretch Questions
 
